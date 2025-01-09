@@ -9,6 +9,6 @@ This code is for reporting and display purposes only and is prohibited.
 识别大模型因大小问题还未上传，使用的https://github.com/xinyu1205/recognize-anything这个项目的模型
 代码中的路径为绝对路径，使用记得改为相对路径
 
-其他问题，请联系：18522830308
+其他问题，请联系：1660618066@qq.com
 
 Python版本为 3.8.19
