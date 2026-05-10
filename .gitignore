@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data
+cat_database.pkl
+cat_save/
+recognized_cat.jpg
+output_marked_image.jpg
+
+# Model weights and caches
+pretrained/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
